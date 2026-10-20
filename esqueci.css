@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(27, 69, 194);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    border: 2px solid #E9ECEF;
+    max-width: 600px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+.container h1{
+    text-align: center;
+    color:#212529;
+
+}
+.form-control{
+    margin: bottom 15px;
+}
+.form-control label {
+    display: block;
+}
+
+.form-control input[type="text"] {
+    width: 96%;
+    padding: 8px;
+}
+.form-control input[type="text"] {
+    width: 96%;
+    padding: 8px;
+}
+.form-controlb{
+    margin-bottom: auto;
+    max-width: 500px;
+    margin: auto;
+   
+}
